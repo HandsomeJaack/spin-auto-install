@@ -1,0 +1,3 @@
+[submodule "Spin"]
+	path = Spin
+	url = https://github.com/nimble-code/Spin.git
